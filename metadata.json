@@ -1,0 +1,6 @@
+{
+  "name": "WarrantyVault",
+  "description": "A personal digital vault to upload purchase bills, extract warranty details with AI, and track warranty claims.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
